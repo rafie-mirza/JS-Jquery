@@ -1,0 +1,25 @@
+[
+
+    {
+
+        "idmenu"        : 1,
+        "idkategori"    : 1,
+        "menu"          :"Apel Merah",
+        "harga"         :3000,
+        "warna"         : ["merah","kuning","hijau"],
+        "stok"          :true,
+        "keteragan"     :null
+    },
+    {
+
+        "idmenu"        : 2,
+        "idkategori"    : 2,
+        "menu"          :"Apel kuning",
+        "harga"         :3000,
+        "warna"         : ["merah","kuning","hijau"],
+        "stok"          :true,
+        "keteragan"     :null
+    }
+
+] 
+
